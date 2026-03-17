@@ -34,7 +34,7 @@ export default function Hero() {
           {siteData.hero.subtitle}
         </p>
 
-        <button className="bg-primary hover:scale-105 transition px-8 py-3 rounded-lg font-semibold shadow-lg shadow-red-500/30">
+        <button className="ml-2 bg-primary text-white px-5 py-2 rounded-lg font-semibold shadow-lg shadow-red-500/30 hover:scale-105 hover:bg-red-600 transition">
           {siteData.hero.buttonText}
         </button>
 
