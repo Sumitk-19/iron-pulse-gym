@@ -2,7 +2,7 @@ const siteData = {
   businessName: "IronPulse Fitness",
 
   hero: {
-    title: "Transform Your Body",
+    title: "Transform Yourself at IronPulse Fitness",
     subtitle:
       "Join the best gym in your city and start your fitness journey today",
     buttonText: "Join Now",
